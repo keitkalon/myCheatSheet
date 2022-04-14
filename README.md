@@ -174,6 +174,10 @@ INSERT INTO "profile"(
 ) VALUES ('troy@fake.email', 'Troy',
 26, 'Password123');
 
+UPDATE "profile" SET age = 30 WHERE id = 1;
+SELECT name, age, email FROM "profile" WHERE id = 1;
+
+DELETE FROM "profile" WHERE id = 1;
 
 ```
 ---------------------------
