@@ -175,9 +175,26 @@ INSERT INTO "profile"(
 26, 'Password123');
 
 UPDATE "profile" SET age = 30 WHERE id = 1;
+
 SELECT name, age, email FROM "profile" WHERE id = 1;
 
 DELETE FROM "profile" WHERE id = 1;
+
+CREATE TABLE post(
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(255),
+  content TEXT,
+  CONSTRAINT fk_profile
+      FOREIGN KEY(profile_id)
+          REFERENCES "profile" (id));
+          
+  INSERT INTO post (name, content, user_id)
+  VALUES ('Dogs', 'I lov Akita', 1)
+  
+  SELECT "profile".*, post.id, post.name AS
+  title, post.content, post.profile_id FROM
+  "profile" JOIN post
+  ON post.profile_id = "profile".id; 
 
 ```
 ---------------------------
