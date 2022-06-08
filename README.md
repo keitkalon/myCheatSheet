@@ -347,7 +347,93 @@ RIGHT jOIN shows s on sc.show_id = s.id
 WHERE show_id = 2
 ```
 
+# CSharp
+---------------------------
 
 
 
+## TypeConversion
+-----------
 
+### 1) is 
+![TypeConversion_Is](https://user-images.githubusercontent.com/79155265/172614575-4b6d594c-485b-42bd-9d40-0001d2a16cb3.jpg)
+
+
+
+## String
+-----------
+
+### 1) StringBuilder
+
+![String](https://user-images.githubusercontent.com/79155265/172612622-2784a771-f8d8-4142-8ae3-d427eb59d55e.jpg)
+
+
+## Patterns
+
+### 1) Singleton
+![Singleton](https://user-images.githubusercontent.com/79155265/172615200-d621df86-94b2-4dcc-9cf8-a677b38c7407.jpg)
+
+### 2) Singleton
+![Singleton](https://user-images.githubusercontent.com/79155265/172615270-1d91fa61-1200-45f5-bc7d-80840c106fa2.png)
+
+
+### 3) Factory
+
+
+## .Net
+
+### 1) Authorization
+![Authorize_Authentication](https://user-images.githubusercontent.com/79155265/172615492-21aa8892-b5c3-4891-b684-b74b80d6b505.jpg)
+
+### 2) Authorization
+![Authorization](https://user-images.githubusercontent.com/79155265/172615554-4c4f77b7-6e74-4e98-97ac-a0c917dcecc7.jpg)
+
+
+## Utilities
+-----------
+
+### 1) Distances
+![Distances](https://user-images.githubusercontent.com/79155265/172614829-01e895bb-c7b1-49fc-82b8-a959b27bdc85.jpg)
+
+### 1) Distances BetweenCities
+![DistanceBetweenCities](https://user-images.githubusercontent.com/79155265/172614916-3fb24e95-f52f-4cf6-843e-11dfbcdad918.jpg)
+
+
+
+## Delegate & Events
+-----------
+
+### 1) Delegate & Event Classic
+![Events_Classic](https://user-images.githubusercontent.com/79155265/172613030-23e764c1-3aa9-4f41-a014-ca9ccbca456a.jpg)
+
+### 2) Delegate & Event EventHandler 
+![Events_with_EventHandler](https://user-images.githubusercontent.com/79155265/172613652-7287ebf8-e7f8-4ce2-87a3-2ac91483302b.jpg)
+
+
+
+### 3) Delegate & Event Action
+![Events_Actions](https://user-images.githubusercontent.com/79155265/172613138-c718c7e8-dd2b-403c-8bff-fed7a357a89a.jpg)
+
+
+### 4) Delegate & Event Action Static
+![Events_StaticActions](https://user-images.githubusercontent.com/79155265/172613241-84be17d9-4cc3-4dd6-af35-9f09fde7d8c3.jpg)
+
+
+### 5) Delegate & Event Action No-Parameters
+![Events_with_ActionNoParameter](https://user-images.githubusercontent.com/79155265/172613347-f1118ba4-3b94-4cf7-b292-83c03c99e960.jpg)
+
+
+### 6) Delegate & Event Action with Parameters
+![Events_with_ActionWithParameter](https://user-images.githubusercontent.com/79155265/172613429-f545718e-ba61-4329-af6b-45449d554c63.jpg)
+
+### 6) Delegate & Event Func with returnig string
+![Events_with_FuncAndReturningString](https://user-images.githubusercontent.com/79155265/172614041-803ddcbd-591e-4aa0-9ecf-7b40f8c03e9d.jpg)
+
+
+
+## Sample
+
+### 1) Ceas
+![Ceas](https://user-images.githubusercontent.com/79155265/172615639-30ad4d89-fcc3-43e4-a346-40f8d563ef93.jpg)
+
+### 1) Ceas
