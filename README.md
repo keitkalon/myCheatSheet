@@ -351,12 +351,38 @@ WHERE show_id = 2
 ---------------------------
 
 
+## Controller
+-----------
+### 1) CRUD 
+
+![CRUDController](https://user-images.githubusercontent.com/79155265/173386701-96ab5c5e-4f1b-4ea6-9839-f5a3669b976d.jpg)
+
+![CRUDController2](https://user-images.githubusercontent.com/79155265/173386726-c9e7df81-43a8-4552-8ded-93a05da21acd.jpg)
+
+
 
 ## TypeConversion
 -----------
-
 ### 1) is 
 ![TypeConversion_Is](https://user-images.githubusercontent.com/79155265/172614575-4b6d594c-485b-42bd-9d40-0001d2a16cb3.jpg)
+
+## Microservices
+-----------
+
+### 1) Controller
+![Services_CreateTrroghServives_Controller1](https://user-images.githubusercontent.com/79155265/173380521-6b1f4446-c23f-4bb9-8c9b-a8b7bd12255e.jpg)
+
+![Services_CreateTrroghServives_HttpConecter](https://user-images.githubusercontent.com/79155265/173380546-6bff53a2-dc3b-41ef-8f3d-6179fec7b287.jpg)
+
+### 3) Start DependecyInjection HttpConecter
+![Services_CreateTrroghServives_StartAddDependecyInjection](https://user-images.githubusercontent.com/79155265/173380634-a44ec365-04bd-4e99-b36c-54d7cffff5ea.jpg)
+
+### 4) Start DependecyInjection Mapper
+![Services_CreateTrroghServives_Mapper](https://user-images.githubusercontent.com/79155265/173380600-e63417bc-f1e9-46a3-bc15-5f2ba72ac544.jpg)
+
+
+## JSON Read & Write
+![Read_Write_JSON](https://user-images.githubusercontent.com/79155265/173387304-38a5ce8a-a381-44bf-99c7-4aa619fbc353.jpg)
 
 
 
@@ -364,7 +390,6 @@ WHERE show_id = 2
 -----------
 
 ### 1) StringBuilder
-
 ![String](https://user-images.githubusercontent.com/79155265/172612622-2784a771-f8d8-4142-8ae3-d427eb59d55e.jpg)
 
 
@@ -382,10 +407,13 @@ WHERE show_id = 2
 
 ## .Net
 
-### 1) Authorization
-![Authorize_Authentication](https://user-images.githubusercontent.com/79155265/172615492-21aa8892-b5c3-4891-b684-b74b80d6b505.jpg)
+### 1) Authorization Controller
+![ControllersAuthorization](https://user-images.githubusercontent.com/79155265/173386820-c71427fb-9670-4e5d-ba1d-c057e7803114.jpg)
 
 ### 2) Authorization
+![Authorize_Authentication](https://user-images.githubusercontent.com/79155265/172615492-21aa8892-b5c3-4891-b684-b74b80d6b505.jpg)
+
+### 3) Authorization
 ![Authorization](https://user-images.githubusercontent.com/79155265/172615554-4c4f77b7-6e74-4e98-97ac-a0c917dcecc7.jpg)
 
 
@@ -428,6 +456,10 @@ WHERE show_id = 2
 
 ### 6) Delegate & Event Func with returnig string
 ![Events_with_FuncAndReturningString](https://user-images.githubusercontent.com/79155265/172614041-803ddcbd-591e-4aa0-9ecf-7b40f8c03e9d.jpg)
+
+## Model
+
+![Model](https://user-images.githubusercontent.com/79155265/173387894-cb1c16c6-7e4a-4f44-a87c-5f8323617507.jpg)
 
 
 
